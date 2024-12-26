@@ -1,5 +1,4 @@
 {
-  "Version": "1.0.1",
-  "DownloadUrl": "https://raw.githubusercontent.com/lalabixiaoxin/update/refs/heads/main/Razium%20Executor.exe",
-  "ReleaseNotes": "test"
+  "latestVersion": "1.2.0",
+  "updateUrl": "https://github.com/your_repo/releases/download/v1.2.0/Setup.exe"
 }
