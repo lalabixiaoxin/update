@@ -1,4 +1,4 @@
 {
-    "version": "1.0.0",
-    "downloadUrl": "https://yourdownloadlink.com/setup.exe"
+    "Version": "1.0.0",
+    "UpdateUrl": "https://yourdownloadlink.com/setup.exe"
 }
